@@ -16,7 +16,6 @@ git reset (descartar cambios) --hard (commit): vuelve a un estado determinado / 
 
 git reflog (se vuelven a ver los commits de lo eliminado): el historial completo de interacciones
 
-<<<<<<< HEAD
 git tag: ej: git tag clase_1 (en ese punto donde estamos hacemos una marca)
 
 git branch --- (crea una rama) -lo vemos con git log: git branch rama1 // la rama se crea a partir del commit donde estamos
@@ -25,8 +24,16 @@ git switch ---: git switch rama1
 
 git switch master (vuelve a master)
 
+git log --graph --oneline --all (vemos el tree, las ramas)
+
+git branch: me da con un * dónde estamos situados
+
+git checkout nombre_de_la_rama_actual  # Cambia a la rama actual (donde está el HEAD)
+git merge rama1                       # Fusiona los cambios de rama1 en la rama actual
+
+git branch -d (nombre rama): elimina rama que ya no se usa
+git branch -d rama1 ---> deleted branch rama1
 
 
 
-=======
->>>>>>> rama1
+
