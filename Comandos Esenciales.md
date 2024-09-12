@@ -12,5 +12,7 @@ git status
 
 git diff (diferentes versiones)
 
-git reset (descartar cambios)
+git reset (descartar cambios) --hard (commit): vuelve a un estado determinado / podemos ir hacia atrá o hacia adelante
+
+git reflog (se vuelven a ver los commits de lo eliminado): el historial completo de interacciones
 
