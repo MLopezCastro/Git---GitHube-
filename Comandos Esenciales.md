@@ -11,3 +11,6 @@ git log (versiones de commits)
 git status
 
 git diff (diferentes versiones)
+
+git reset (descartar cambios)
+
