@@ -10,4 +10,4 @@ git log (versiones de commits)
 
 git status
 
-git diff (diferenntes versiones)
+git diff (diferentes versiones)
