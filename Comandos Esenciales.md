@@ -34,6 +34,12 @@ git merge rama1                       # Fusiona los cambios de rama1 en la rama 
 git branch -d (nombre rama): elimina rama que ya no se usa
 git branch -d rama1 ---> deleted branch rama1
 
+git remote add origin git@github.com:MLopezCastro/Git---GitHub-.git (para emparejar remoto desde local)
+git push --set-upstream origin master (para subir siempre al remoto, master se hace una sola vez) (Esto hará dos cosas:
+                                                                                                   Empujará tu rama master al repositorio remoto en GitHub.
+                                                                                                   Configurará la rama master para rastrear el repositorio remoto, 
+                                                                                                    por lo que en el futuro podrás simplemente usar git push sin especificar la rama.)
+
 
 
 
