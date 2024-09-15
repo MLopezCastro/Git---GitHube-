@@ -1,2 +1,2 @@
-# Git---GitHube-
-Comandos esenciales de Git - GitHube
+# Git-GitHube
+### Comandos esenciales de Git - GitHube
