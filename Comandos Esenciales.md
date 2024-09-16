@@ -40,6 +40,7 @@ git push --set-upstream origin master (para subir siempre al remoto, master se h
                                                                                                    Configurará la rama master para rastrear el repositorio remoto, 
                                                                                                     por lo que en el futuro podrás simplemente usar git push sin especificar la rama.)
 
+git clone (url) Clona el repositorio remoto en nuestro ordenador
 
 
 
