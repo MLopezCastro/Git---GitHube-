@@ -42,5 +42,7 @@ git push --set-upstream origin master (para subir siempre al remoto, master se h
 
 git clone (url) Clona el repositorio remoto en nuestro ordenador
 
+git push (para enviar desde local a remoto)
+
 
 
